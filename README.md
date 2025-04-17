@@ -15,4 +15,4 @@
 * demo8.html --> 編譯作用域與Slot
 * demo9.html --> Axios
 * demo10.html --> Vuex狀態管理
-* demo11.html --> Vuex狀態管理(模組拆分)
+* demo11.html --> Vuex狀態管理 (模組拆分範例)
