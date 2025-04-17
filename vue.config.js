@@ -79,6 +79,20 @@ module.exports = defineConfig({
       template: 'public/demo9.html',
       filename: 'demo9.html',
       title: '與後端互動',
+    },
+    // Vuex狀態管理
+    demo10: {
+      entry: 'src/js/demo10.js',
+      template: 'public/demo10.html',
+      filename: 'demo10.html',
+      title: 'Vuex狀態管理',
+    },
+    // Vuex狀態管理(模組拆分)
+    demo11: {
+      entry: 'src/js/demo11.js',
+      template: 'public/demo11.html',
+      filename: 'demo11.html',
+      title: 'Vuex狀態管理(模組拆分)',
     }
   },
   // 是否啟用Vue的runtimeCompiler，預設為false
