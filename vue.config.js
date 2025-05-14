@@ -93,6 +93,13 @@ module.exports = defineConfig({
       template: 'public/demo11.html',
       filename: 'demo11.html',
       title: 'Vuex狀態管理(模組拆分)',
+    },
+    // Vue Router
+    demo12: {
+      entry: 'src/js/demo12.js',
+      template: 'public/demo12.html',
+      filename: 'demo12.html',
+      title: 'Vue Router',
     }
   },
   // 是否啟用Vue的runtimeCompiler，預設為false
