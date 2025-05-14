@@ -16,3 +16,4 @@
 * demo9.html --> Axios
 * demo10.html --> Vuex狀態管理
 * demo11.html --> Vuex狀態管理 (模組拆分範例)
+* demo12.html --> Vue Router
